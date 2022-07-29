@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as iOS Developer and CPO [@leastric](https://leastric.com)
+- 🔭 I’m currently working as iOS Developer [@RuangGuru](https://www.ruangguru.com) and CPO [@leastric](https://leastric.com)
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me: 
 
