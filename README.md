@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as iOS Developer @RuangGuru and CPO @leastric<br>
-🌱 I’m currently learning iOS development & Backend using Golang
+🔭 I’m currently working as iOS Developer KedaTech and CPO @leastric<br>
+🌱 I’m currently learning iOS development
 
 
 ## 🌐 Socials:
