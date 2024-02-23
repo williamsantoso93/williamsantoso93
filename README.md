@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as iOS Developer KedaTech and CPO @leastric<br>
+🔭 I’m currently working as Lead iOS Engineer @Parkee and CPO @leastric<br>
 🌱 I’m currently learning iOS development
 
 
